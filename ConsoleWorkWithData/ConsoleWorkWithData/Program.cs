@@ -11,18 +11,11 @@ namespace ConsoleWorkWithData
     {
         static void Main(string[] args)
         {
-
-
-
-string FirstName = "James"; //string data type
-string LastName = "Nichols"; //string data type 
-int StudentID = 8079; //int data type
-DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type 
-decimal Grade = 95m; //decimal data type 
-
-
-
-
+            string FirstName = ; //string data type
+            string LastName = ; //string data type 
+            int StudentID = 8079; //int data type
+            DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type 
+            decimal Grade = 95m; //decimal data type 
             WriteLine("a. --- --- ------------------ ---------- ------------- -------- ----");
             WriteLine("b.  My name is "+LastName+' '+FirstName); //string data type 
             WriteLine("c.     I am a new student and this is my first program.");
@@ -32,7 +25,6 @@ decimal Grade = 95m; //decimal data type
             WriteLine("g.        My current grade in the course is a " + Grade); //decimal data type
             WriteLine("h. ___ ___ _________________ _________ _____________ _________ ____");
             Read();
-          
         }
     }
 }
