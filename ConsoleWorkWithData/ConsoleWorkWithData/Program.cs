@@ -11,13 +11,8 @@ namespace ConsoleWorkWithData
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
             string FirstName = "Tuan"; //string data type - i don't know if this is correct - no, add value to the string
             string LastName = "Tran"; //string data type - same here - add value to the string variable here too
-=======
-            string FirstName = ; //string data type - please add value to your variable
-            string LastName = ; //string data type - do the same here
->>>>>>> Stashed changes
             int StudentID = 8079; //int data type
             DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type 
             decimal Grade = 95m; //decimal data type 
