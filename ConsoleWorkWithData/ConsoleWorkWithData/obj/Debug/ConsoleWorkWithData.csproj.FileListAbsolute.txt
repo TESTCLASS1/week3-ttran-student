@@ -6,3 +6,7 @@ H:\Csc 105\ConsoleWorkWithData\ConsoleWorkWithData\obj\Debug\ConsoleWorkWithData
 H:\Csc 105\ConsoleWorkWithData\ConsoleWorkWithData\obj\Debug\ConsoleWorkWithData.pdb
 C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\bin\Debug\ConsoleWorkWithData.exe.config
 C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\obj\Debug\ConsoleWorkWithData.pdb
+C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\obj\Debug\ConsoleWorkWithData.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\bin\Debug\ConsoleWorkWithData.exe
+C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\bin\Debug\ConsoleWorkWithData.pdb
+C:\Users\Tuan\Documents\GitHub\week3-ttran-student\ConsoleWorkWithData\ConsoleWorkWithData\obj\Debug\ConsoleWorkWithData.exe

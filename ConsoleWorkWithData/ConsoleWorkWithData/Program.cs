@@ -11,8 +11,8 @@ namespace ConsoleWorkWithData
     {
         static void Main(string[] args)
         {
-            string FirstName = ; //string data type
-            string LastName = ; //string data type 
+            string FirstName = "Tuan"; //string data type - i don't know if this is correct - no, add value to the string
+            string LastName = "Tran"; //string data type - same here - add value to the string variable here too
             int StudentID = 8079; //int data type
             DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type 
             decimal Grade = 95m; //decimal data type 
@@ -25,6 +25,9 @@ namespace ConsoleWorkWithData
             WriteLine("g.        My current grade in the course is a " + Grade); //decimal data type
             WriteLine("h. ___ ___ _________________ _________ _____________ _________ ____");
             Read();
+
+            //everything looks good! go ahead to submit it! thanks.
+            //thank you - my final code!
         }
     }
 }
