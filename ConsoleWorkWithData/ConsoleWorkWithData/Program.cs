@@ -11,7 +11,7 @@ namespace ConsoleWorkWithData
     {
         static void Main(string[] args)
         {
-            string FirstName = ; //string data type - i don't know if this is correct - no, add value to the string
+            string FirstName = "Tuan"; //string data type - i don't know if this is correct - no, add value to the string
             string LastName = ; //string data type - same here
             int StudentID = 8079; //int data type
             DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type 
