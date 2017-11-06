@@ -25,6 +25,8 @@ namespace ConsoleWorkWithData
             WriteLine("g.        My current grade in the course is a " + Grade); //decimal data type
             WriteLine("h. ___ ___ _________________ _________ _____________ _________ ____");
             Read();
+
+            //everything looks good! go ahead to submit it! thanks.
         }
     }
 }
