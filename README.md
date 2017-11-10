@@ -1,8 +1,12 @@
 ## CSC105X-Week3
 
-### This week assignment focuses on variable declaration and display information of variables
+### 1. Objectives:
 
-### This is code instruction for Week 3 Assignment
+This week assignment focuses on variable declaration and display information of variables
+
+### 2. Instruction:
+
+This is code instruction for Week 3 Assignment
 
 Within your Main function:
         
