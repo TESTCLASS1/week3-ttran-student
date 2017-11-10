@@ -1,5 +1,5 @@
-## <p align="center"> CSC105X: Instroduction to Programming</p>
-## Week 3 Assginemnt
+## <p align="center"> CSC105X: Instroduction to Programming
+## Week 3 Assginemnt </p>
 
 ### 1. Objectives:
 
