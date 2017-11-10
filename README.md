@@ -1,4 +1,5 @@
-## CSC105X-Week3
+## CSC105X: Instroduction to Programming
+## Week 3 Assginemnt
 
 ### 1. Objectives:
 
