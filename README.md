@@ -49,4 +49,4 @@ Within your Main function:
             7. Finally, we use Read() command to freeze the console so we can see the output of WriteLine() commands above
 
 ### 3. Code Skeleton
-Please refer to the [Program.cs file](week3-ttran-student/Program.cs) to see the code skeleton. You can copy the skeleton to your .cs file and add more information as instructed to complete your assignment!
+Please refer to the [Program.cs file](https://github.com/TESTCLASS1/week3-ttran-student/blob/master/Program.cs) to see the code skeleton. You can copy the skeleton to your .cs file and add more information as instructed to complete your assignment!
