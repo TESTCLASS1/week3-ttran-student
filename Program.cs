@@ -1,4 +1,3 @@
-```c#
 using System;
 using static System.Console;
 
@@ -48,4 +47,3 @@ namespace ConsoleWorkWithData
         }
     }
 }
-```
