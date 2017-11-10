@@ -10,7 +10,7 @@ This is code instruction for Week 3 Assignment
 
 Within your Main function:
         
-            1. declare variables:
+            #### 1. Declare variables:
             //========================================================================================================
             string FirstName = "Tuan"; //string data type - you declare variable "FirstName" and assign a value "Tuan"
             // Your Task: do the same as above: declare avariable "LastName" of string data type and assign a value 
@@ -23,7 +23,7 @@ Within your Main function:
             
             decimal Grade = 95m; //decimal data type 
             
-            2. display information on the console:
+            #### 2. Display information on the console:
             //========================================================================================================
             //use WriteLine() command to display information
             // the following command will display "a. --- --- ------------------ ---------- ------------- -------- ----"
