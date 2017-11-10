@@ -11,7 +11,7 @@ This is code instruction for Week 3 Assignment
 
 Within your Main function:
 ```c#
-#### 1. Declare variables:
+// 1. Declare variables:
 //========================================================================================================
 string FirstName = "Tuan"; //string data type - you declare variable "FirstName" and assign a value "Tuan"
 // Your Task: do the same as above: declare avariable "LastName" of string data type and assign a value 
@@ -24,7 +24,7 @@ DateTime BirthDate = new DateTime(1991, 03, 04); //date time data type
 
 decimal Grade = 95m; //decimal data type 
 
-#### 2. Display information on the console:
+// 2. Display information on the console:
 //========================================================================================================
 //use WriteLine() command to display information
 // the following command will display "a. --- --- ------------------ ---------- ------------- -------- ----"
