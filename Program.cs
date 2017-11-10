@@ -39,7 +39,7 @@ namespace ConsoleWorkWithData
             //here we use a convertion function to convert a DateTime value to string: BirthDate.ToString("MM/dd/yyyy")); 
             // use "+" to combine fixed string with converted value 
             
-            5. "g.        My current grade in the course is a " with value of grade stored in Grade variable
+            5. "g. My current grade in the course is " with value of grade stored in Grade variable
             6. "h. ___ ___ _________________ _________ _____________ _________ ____"
             
             7. Finally, we use Read() command to freeze the console so we can see the output of WriteLine() commands above
